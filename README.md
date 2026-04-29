@@ -7,7 +7,7 @@
 
 🤖 Interested in **machine learning, voice technologies, AI knowledge platforms and full-stack development**
 
-🎸 Musician (guitar & drums) on the side
+🎸 Musician on the side
 
 📫 Reach me at: **[jkrekos@icloud.com](mailto:jkrekos@icloud.com)**
 
