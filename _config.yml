@@ -1,0 +1,12 @@
+title: krek-os dot com
+url: "https://krek-os.github.io"
+baseurl: ""
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-imagemagick
+  - jekyll-responsive-image
+  - jekyll-toc
+  - jekyll-admin
